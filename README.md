@@ -5,7 +5,7 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=giliolizera&color=blue" width="15%">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=giliolizera&color=blue">
 </p>
 <br>
 <!-- <p align="center">
