@@ -8,6 +8,6 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=giliolizera&color=grey">
 </p>
 <br>
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/giliolizera"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giliolizera&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-</p>
+</p> -->
